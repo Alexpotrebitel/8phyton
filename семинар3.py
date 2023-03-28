@@ -69,3 +69,4 @@ for elements in my_dict:
         for elem in elements.values():
             my_set.add(elem.strip)
 print(my_set)
+#
