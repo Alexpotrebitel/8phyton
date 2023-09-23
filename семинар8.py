@@ -167,3 +167,4 @@ def menu(db: dict, last_id: int) -> None:
             break
 
 menu(phonebook, phonebook_last_id)
+# не могу сохранить
